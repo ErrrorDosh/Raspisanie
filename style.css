@@ -1,0 +1,33 @@
+html, body {
+    font-family: sans-serif;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(245, 223, 208);
+  }
+
+table {
+    border: 4px solid rgb(78, 29, 29);
+    border-collapse: collapse;
+    background-color: rgb(231, 206, 187);
+}
+
+td {
+    border: 2px solid rgb(70, 44, 44);
+    padding: 10px;
+    color: rgb(71, 47, 29);
+}
+
+th {
+    border: 3px solid rgb(59, 45, 33);
+    padding: 2px;
+    background-color: rgb(114, 87, 67);
+    color: rgb(245, 191, 153);
+}
+
+.dni {
+    font-weight:bold;
+    color: rgb(97, 68, 68);
+ 
+}
+
